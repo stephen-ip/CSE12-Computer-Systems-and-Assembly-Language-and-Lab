@@ -1,5 +1,5 @@
 Stephen Ip
-1728120
+scip
 Spring 2020
 Lab 1: Intro to Logic Simulation
  
